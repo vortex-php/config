@@ -1,0 +1,18 @@
+
+# comment line and empty lines
+
+
+
+init: initValue
+
+key: keyValue
+
+keyWithDesc: keyWithDesc
+
+nested:
+  key: nestedKeyValue
+
+array:
+  - arrayValue0
+  - arrayValue1
+  - arrayValue2
